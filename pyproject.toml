@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+torch = "^2.5.1"
+numpy = "^2.2.1"
+matplotlib = "^3.10.0"
 
 
 [build-system]
